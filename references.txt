@@ -1,0 +1,12 @@
+Pandas Dataframes:
+https://www.geeksforgeeks.org/apply-function-to-every-row-in-a-pandas-dataframe/#:~:text=Python%20is%20a%20great%20language,every%20row%20in%20given%20dataframe.
+
+Subtracting Dates:
+https://stackoverflow.com/questions/32837484/extract-date-from-string-pandas-data-frame
+https://docs.python.org/3/library/datetime.html#strftime-and-strptime-behavior
+https://www.tutorialspoint.com/How-do-I-calculate-number-of-days-between-two-dates-using-Python#:~:text=You%20can%20use%20simple%20date,to%20get%20the%20required%20result.
+
+Plotting:
+https://www.tutorialspoint.com/matplotlib/matplotlib_pie_chart.htm
+https://datatofish.com/confusion-matrix-python/
+https://stackoverflow.com/questions/21572870/matplotlib-percent-label-position-in-pie-chart
